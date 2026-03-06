@@ -17,10 +17,6 @@ This project analyzes the UCI Sales dataset using Power BI.
 - Data Cleaning
 - Data Modeling
 
-## Dashboard Preview
-<img width="1175" height="706" alt="Screenshot 2026-03-06 155023" src="https://github.com/user-attachments/assets/092703b1-3918-40f8-b305-127f0a8a3b09" />
-
-
 ## How to Use
 Download the .pbix file and open in Power BI Desktop to interact with slicers and visuals.
 
