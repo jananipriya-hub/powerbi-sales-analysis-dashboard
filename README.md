@@ -1,6 +1,10 @@
 # UCI Sales Dashboard - Power BI
 
-This project analyzes the UCI Sales dataset using Power BI.
+# Project Overview
+This project analyzes sales performance data using Power BI to identify revenue trends, top-performing products, and regional sales patterns.
+
+# Project Objective
+The objective of this project is to analyze sales performance and identify key trends that can help businesses make data-driven decisions.
 
 ## Features
 - Interactive slicers
